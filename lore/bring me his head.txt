@@ -1,0 +1,23 @@
+#戈巴格12 著
+#
+#title:带给俺他的脑袋！
+#author:{name:orc_prefix}{name:orc_suffix}，{name:orc_prefix}{name:orc_suffix}的抄写员
+#types:ruins,gundabad,angmar,dol_guldur,mordor,isengard
+#reward
+#
+嘿！你！垃圾！头给俺说你
+打猎挺厉害！
+
+他问俺，俺这抄写员能不能
+写个信给你这垃圾，叫你带
+回臭塔克{name:gondor_male}
+的脑袋！那蠢蛋嘲笑咱伟大
+的头。让他看脑袋从肩膀上
+掉下来时还笑不笑得出来！
+
+带回那塔克的脑袋，他给你
+这垃圾做的事奖励五百银币
+！带不回他的脑袋，头要你
+的脑袋！
+
+现在滚！
