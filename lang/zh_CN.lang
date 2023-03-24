@@ -9199,3 +9199,13 @@ tile.waterlily_largeLily.name=大睡莲
 tile.waterlily_mediumlily.name=中型睡莲
 tile.waterlily_smalllily.name=小型睡莲
 tile.waterlily_tinylily.name=极小的睡莲
+
+Menu=菜单
+Cart=马车-装车
+Alignment Cycle Left=左一个阵营值显示
+Alignment Cycle Right=右一个阵营值显示
+LOTR=魔戒按键设置
+Map Teleport=地图传送(创造模式)
+Fast Travel=快速传送
+Alignment Group Prev=前一地区阵营值显示
+Alignment Group Next=后一地区阵营值显示
