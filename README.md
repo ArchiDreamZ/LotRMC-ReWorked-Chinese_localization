@@ -6,7 +6,7 @@
 拓展补充了洛斯索斯人、东方矮人、可汗德、德鲁伊甸人、林中人类、贝奥恩一族、黑努门诺尔人、西刚铎封邑等，以及添加大量的新路径点。
 很多新的路径点是原著没有提及过的，参考的是Middle-earth Role-playing，也就是MERP的资料，例如刚铎西部城市的历史、卡多蓝的旧城废墟的故事、北方游民的聚居地，安格玛的人类遗址等。
 对于参考了MERP的新路径点，彼梦通过查阅MERP资料，对路径点资料进行了充分介绍。
-注：MERP资料可以在这个wiki上查到：https://notionclubarchives.fandom.com/wiki/Arda_Role_Playing_Wiki
+（注：MERP资料可以在这个wiki上查到：https://notionclubarchives.fandom.com/wiki/Arda_Role_Playing_Wiki）
 
 并且彼梦修正了原翻译由于魔戒早期翻译人员的随意与主观而导致的“东夷”“南蛮”等偏见他称，改为了“战车民”“哈拉德人”等自称或较客观名称。
 
