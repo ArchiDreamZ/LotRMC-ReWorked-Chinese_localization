@@ -19,7 +19,7 @@
 >
 如果改动内容很多，或者想要长期参与，可以下载**GitHub Desktop**，它可以把云端仓库内容下载到本地，或者把本地改动同步到云端。本地改动内容自动监测，并能一键发送改动请求。
 
-已发现的未汉化内容可以在这里看到：https://github.com/ArchiDreamZ/LotRMC-ReWorked-Chinese_localization/wiki/%E5%B7%B2%E5%8F%91%E7%8E%B0%E6%9A%82%E6%9C%AA%E6%B1%89%E5%8C%96%E5%86%85%E5%AE%B9%E5%88%97%E8%A1%A8
+已发现的未汉化内容可以在这里看到：[已发现暂未汉化内容列表](https://github.com/ArchiDreamZ/LotRMC-ReWorked-Chinese_localization/wiki/%E5%B7%B2%E5%8F%91%E7%8E%B0%E6%9A%82%E6%9C%AA%E6%B1%89%E5%8C%96%E5%86%85%E5%AE%B9%E5%88%97%E8%A1%A8)
 
 ## 仓库构成：
 
