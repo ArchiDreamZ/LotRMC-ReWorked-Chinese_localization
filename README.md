@@ -3,7 +3,7 @@
 
 重制版经历了1.1大北方(The Great North)、1.2中土森林(Forest of Middle-Earth)、1.3努门诺尔之子(Son of Numenore)，三次大更新。
 
-拓展补充了洛斯索斯人、东方矮人、可汗德、德鲁伊甸人、林中人类、贝奥恩一族、黑努门诺尔人、西刚铎封邑等，以及添加大量的新路径点。
+拓展补充了东方矮人、洛斯索斯人、可汗德、德鲁伊甸人、林中人类、贝奥恩一族、黑努门诺尔人、西刚铎封邑等，以及添加大量的新路径点。
 很多新的路径点是原著没有提及过的，参考的是[Middle-earth Role-playing](https://en.wikipedia.org/wiki/Middle-earth_Role_Playing) ，也就是MERP的资料，例如刚铎西部城市的历史、卡多蓝的旧城废墟的故事、北方游民的聚居地，安格玛的人类遗址等。
 对于参考了MERP的新路径点，彼梦通过查阅MERP资料，对路径点资料进行了充分介绍。
 >注：MERP资料可以在这个wiki上查到：https://notionclubarchives.fandom.com/wiki/Arda_Role_Playing_Wiki
