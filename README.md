@@ -1,7 +1,7 @@
 # LotRMC-ReWorked-Chinese_localization
 魔戒LotRMC-ReWorked重制版语言文件，由锟斤拷汉化组、彼梦、刚多林服务器接力汉化
 
-重制版经历了1.1大北方、1.2中土森林、1.3努门诺尔之子，三次大更新。
+重制版经历了1.1大北方(The Great North)、1.2中土森林(Forest of Middle-Earth)、1.3努门诺尔之子(Son of Numenore)，三次大更新。
 
 拓展补充了洛斯索斯人、东方矮人、可汗德、德鲁伊甸人、林中人类、贝奥恩一族、黑努门诺尔人、西刚铎封邑等，以及添加大量的新路径点。
 很多新的路径点是原著没有提及过的，参考的是[Middle-earth Role-playing](https://en.wikipedia.org/wiki/Middle-earth_Role_Playing) ，也就是MERP的资料，例如刚铎西部城市的历史、卡多蓝的旧城废墟的故事、北方游民的聚居地，安格玛的人类遗址等。
@@ -18,6 +18,8 @@
 >直接点进相应文件夹，点击编辑按钮然后编辑，编辑完后点击绿色按钮“**Propose changes**”，然后再点击“**Create pull requests**”，即可发送改动请求。我会第一时间查看并回应你的改动请求。
 >
 如果改动内容很多，或者想要长期参与，可以下载**GitHub Desktop**，它可以把云端仓库内容下载到本地，或者把本地改动同步到云端。本地改动内容自动监测，并能一键发送改动请求。
+
+已发现的未汉化内容可以在这里看到：[已发现暂未汉化内容列表](https://github.com/ArchiDreamZ/LotRMC-ReWorked-Chinese_localization/wiki/%E5%B7%B2%E5%8F%91%E7%8E%B0%E6%9A%82%E6%9C%AA%E6%B1%89%E5%8C%96%E5%86%85%E5%AE%B9%E5%88%97%E8%A1%A8)
 
 ## 仓库构成：
 
