@@ -1,7 +1,7 @@
 # LotRMC-ReWorked-Chinese_localization
 ![logo](https://github.com/ArchiDreamZ/LotRMC-ReWorked-Chinese_localization/assets/89504984/f8cfaeff-6040-405b-aed1-cbaff67640c4)
 
-魔戒LotRMC-ReWorked-1.7.10重制版语言文件，由锟斤拷汉化组、彼梦、刚多林服务器接力汉化
+魔戒LotRMC-ReWorked-1.7.10重制版，由锟斤拷汉化组、彼梦、刚多林服务器接力汉化
 
 重制版经历了1.1大北方(The Great North)、1.2中土森林(Forest of Middle-Earth)、1.3努门诺尔之子(Son of Numenore)，三次大更新。
 
