@@ -9257,6 +9257,12 @@ tile.lotr:whiteFurBed.name=白毛皮床
 tile.lotr:druedainBed.name=德鲁伊甸床
 tile.lotr:armorStand.name=铠甲架
 entity.lotr.WhiteBearRug.name=白熊皮毯
+tile.lotr:appleCrumble.name=苹果酥
+tile.lotr:bananaCake.name=香蕉蛋糕
+tile.lotr:berryPie.name=莓馅饼
+tile.lotr:cherryPie.name=樱桃馅饼
+tile.lotr:dalishPastry.name=河谷邦糕饼
+tile.lotr:lemonCake.name=柠檬蛋糕
 
 Menu=菜单
 Cart=马车-装车
