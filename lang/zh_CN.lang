@@ -952,7 +952,7 @@ entity.lotr.DolAmrothBlacksmith.name=多阿姆洛斯铁匠
 entity.lotr.DaleGuardsmanBannerBearer.name=河谷邦壁炉哨卫旗手
 entity.lotr.DaleGuardsmanCaptain.name=河谷邦壁炉哨卫队长
 entity.lotr.LossarnachMan.entityName=洛斯阿尔那赫的 %s
-entity.lotr.Pike.name=梭子鱼
+entity.lotr.Pike.name=狗鱼
 
 
 
@@ -2475,8 +2475,8 @@ item.lotr:bodyNumenorean.name=努门诺尔胸甲
 item.lotr:legsNumenorean.name=努门诺尔护腿
 item.lotr:bootsNumenorean.name=努门诺尔靴子
 item.lotr:swordNumenorean.name=努门诺尔剑
-item.lotr:pikeRaw.name=生梭子鱼
-item.lotr:pikeCooked.name=熟梭子鱼
+item.lotr:pikeRaw.name=生狗鱼
+item.lotr:pikeCooked.name=熟狗鱼
 item.lotr:bodyDunedainJacket.name=北方杜内丹夹克
 
 
