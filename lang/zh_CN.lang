@@ -150,7 +150,7 @@ commands.lotr.opHideMap.unhide=/opHideMap:你的位置不再对非OP隐藏
 commands.lotr.opHideMap.usage=/opHideMap
 commands.lotr.pledgeCooldown.set=将%s的宣誓冷却设置为%d刻 (%s)
 commands.lotr.pledgeCooldown.usage=/pledgeCooldown <刻> [玩家] (宣誓冷却)
-commands.lotr.spawnDamping.calc=世界%d (%s): %s类生物的生成衰减是%d。%d玩家在世界中。生成上限 (每%d区块) 减少至%d(从基本的%d)。生成上限 x 玩家
+commands.lotr.spawnDamping.calc=世界%d (%s): %s类生物的生成衰减是%d。%d玩家在世界中。生成上限 (每%d区块) 减少至%d (基础值为%d)。生成上限×玩家=%d。
 commands.lotr.spawnDamping.noType=%s类生物不存在
 commands.lotr.spawnDamping.reset=重设所有生成衰减设置
 commands.lotr.spawnDamping.set=对%s类生物设置生成衰减到%d
