@@ -3875,7 +3875,7 @@ lotr.achievement.tradeDaleGuardmanCaptain.desc=在河谷邦壁炉哨卫队长处
 
 
 
-lotr.alignment.bountyKilled=取得赏金！
+lotr.alignment.bountyKilled=为赏金击杀！
 lotr.alignment.breakPledge=打破誓言
 lotr.alignment.cutFangornTree=杀树
 lotr.alignment.decimal_separator_char=.
@@ -3887,7 +3887,7 @@ lotr.alignment.killedHunter=赏金猎人
 lotr.alignment.marriage=主持婚礼
 lotr.alignment.miniQuest=完成小任务！
 lotr.alignment.pickpocket=扒窃
-lotr.alignment.vineyardSteal=酒庄小偷
+lotr.alignment.vineyardSteal=偷窃葡萄
 lotr.biome.adornland.name=阿多恩河流域
 lotr.biome.anorien.name=阿诺瑞恩
 lotr.biome.forochel.name=佛洛赫尔
