@@ -9318,3 +9318,5 @@ Map Teleport=地图传送(创造模式)
 Fast Travel=快速旅行
 Alignment Group Prev=前一组地区结盟值显示
 Alignment Group Next=后一组地区结盟值显示
+tile.lotr:fruitBlock.peach.name=桃子
+tile.lotr:fruitBlock.pear.name=梨
